@@ -13,10 +13,22 @@ Manual de identidad del Jara (Asociación Jara Club), el club de tiempo libre de
 ## Para usarlo con un agente
 Basta con darle la URL del repo: lo primero que leerá es `AGENTS.md`. Si usas Claude Code, instala la skill una vez:
 
+macOS o Linux:
+
 ```sh
 git clone https://github.com/pfaraluce/jara-brand
 mkdir -p ~/.claude/skills
 cp -r jara-brand/skills/jara-marca ~/.claude/skills/
 ```
+
+Windows (PowerShell):
+
+```powershell
+git clone https://github.com/pfaraluce/jara-brand
+New-Item -ItemType Directory -Force "$HOME\.claude\skills" | Out-Null
+Copy-Item -Recurse -Force jara-brand\skills\jara-marca "$HOME\.claude\skills\"
+```
+
+Para actualizarla más adelante, haz `git pull` en el repo y repite la copia.
 
 Versión 2.0 · octubre de 2026.
