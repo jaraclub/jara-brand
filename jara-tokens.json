@@ -8,7 +8,7 @@
     "verde": { "hex": "#2F4A3A", "rgb": [47, 74, 58], "cmyk": [36, 0, 22, 71], "pantone": "553 C (aprox.)", "uso": "Hoja, monte." },
     "hueso": { "hex": "#F4EFE6", "uso": "Fondos de carteles y merch." },
     "rojoClaro": { "hex": "#FCE8E8", "uso": "Cajas destacadas." },
-    "rojoNoche": { "hex": "#FF5257", "uso": "Rojo para texto sobre fondo oscuro." }
+    "rojoNoche": { "hex": "#FF2A2F", "rgb": [255, 42, 47], "uso": "Rojo para texto sobre fondo oscuro." }
   },
   "proporcion": { "blanco": 50, "marino": 22, "rojo": 18, "amarillo": 5, "verde": 5 },
   "tipografia": {

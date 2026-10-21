@@ -71,7 +71,7 @@ Es un escudo partido. Arriba va la jara que crece; abajo, JARA con letras dibuja
 | Verde jara | #2F4A3A | Hoja, monte |
 | Hueso | #F4EFE6 | Fondos de carteles y merch |
 | Rojo claro | #FCE8E8 | Cajas destacadas |
-| Rojo noche | #FF5257 | Rojo para texto sobre fondo oscuro |
+| Rojo noche | #FF2A2F | Rojo para texto sobre fondo oscuro |
 
 - Proporción aproximada: blanco 50 %, marino 22 %, rojo 18 %, amarillo 5 %, verde 5 %.
 - Se retiran el naranja #F2931D y el rojo antiguo #BF2025.
