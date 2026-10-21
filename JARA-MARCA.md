@@ -69,11 +69,11 @@ Es un escudo partido. Arriba va la jara que crece; abajo, JARA con letras dibuja
 | Marino | #14213D | Texto y 2.ª equipación |
 | Amarillo | #FFC629 | Centro de la flor. Fiestas y verano |
 | Verde jara | #2F4A3A | Hoja, monte |
-| Hueso | #F4EFE6 | Fondos de carteles y merch |
-| Rojo claro | #FCE8E8 | Cajas destacadas |
-| Rojo noche | #FF2A2F | Rojo para texto sobre fondo oscuro |
 
+- Son cinco colores y no hay más.
 - Proporción aproximada: blanco 50 %, marino 22 %, rojo 18 %, amarillo 5 %, verde 5 %.
+- Para cajas destacadas, el rojo al 10 %.
+- Sobre marino, el rojo solo va en titulares, franjas y gráficos. El texto pequeño va en blanco o amarillo.
 - Se retiran el naranja #F2931D y el rojo antiguo #BF2025.
 - Pantone y CMYK, en [jara-tokens.json](jara-tokens.json). Son aproximados: hay que validarlos con la imprenta.
 

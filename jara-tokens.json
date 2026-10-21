@@ -5,10 +5,11 @@
     "blanco": { "hex": "#FFFFFF", "uso": "Fondo." },
     "marino": { "hex": "#14213D", "rgb": [20, 33, 61], "cmyk": [67, 46, 0, 76], "pantone": "2767 C (aprox.)", "uso": "Texto y 2.ª equipación." },
     "amarillo": { "hex": "#FFC629", "rgb": [255, 198, 41], "cmyk": [0, 22, 84, 0], "pantone": "123 C (aprox.)", "uso": "Centro de la flor. Fiestas y verano." },
-    "verde": { "hex": "#2F4A3A", "rgb": [47, 74, 58], "cmyk": [36, 0, 22, 71], "pantone": "553 C (aprox.)", "uso": "Hoja, monte." },
-    "hueso": { "hex": "#F4EFE6", "uso": "Fondos de carteles y merch." },
-    "rojoClaro": { "hex": "#FCE8E8", "uso": "Cajas destacadas." },
-    "rojoNoche": { "hex": "#FF2A2F", "rgb": [255, 42, 47], "uso": "Rojo para texto sobre fondo oscuro." }
+    "verde": { "hex": "#2F4A3A", "rgb": [47, 74, 58], "cmyk": [36, 0, 22, 71], "pantone": "553 C (aprox.)", "uso": "Hoja, monte." }
+  },
+  "reglas": {
+    "cajasDestacadas": "rojo al 10 %",
+    "sobreMarino": "rojo solo en titulares, franjas y gráficos; texto pequeño en blanco o amarillo"
   },
   "proporcion": { "blanco": 50, "marino": 22, "rojo": 18, "amarillo": 5, "verde": 5 },
   "tipografia": {
