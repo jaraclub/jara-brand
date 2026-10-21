@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "color": {
+    "rojo": { "hex": "#DF171A", "rgb": [223, 23, 26], "cmyk": [0, 92, 88, 4], "pantone": "485 C (aprox.)", "uso": "El escudo. Color principal." },
+    "blanco": { "hex": "#FFFFFF", "uso": "Fondo." },
+    "marino": { "hex": "#14213D", "rgb": [20, 33, 61], "cmyk": [67, 46, 0, 76], "pantone": "2767 C (aprox.)", "uso": "Texto y 2.ª equipación." },
+    "amarillo": { "hex": "#FFC629", "rgb": [255, 198, 41], "cmyk": [0, 22, 84, 0], "pantone": "123 C (aprox.)", "uso": "Centro de la flor. Fiestas y verano." },
+    "verde": { "hex": "#2F4A3A", "rgb": [47, 74, 58], "cmyk": [36, 0, 22, 71], "pantone": "553 C (aprox.)", "uso": "Hoja, monte." },
+    "hueso": { "hex": "#F4EFE6", "uso": "Fondos de carteles y merch." },
+    "rojoClaro": { "hex": "#FCE8E8", "uso": "Cajas destacadas." },
+    "rojoNoche": { "hex": "#FF5257", "uso": "Rojo para texto sobre fondo oscuro." }
+  },
+  "proporcion": { "blanco": 50, "marino": 22, "rojo": 18, "amarillo": 5, "verde": 5 },
+  "tipografia": {
+    "titulares": { "familia": "Big Shoulders Display", "pesos": [800, 900], "caja": "mayúscula" },
+    "texto": { "familia": "Barlow", "pesos": [400, 600, 700] },
+    "etiquetas": { "familia": "Barlow Condensed", "pesos": [700], "caja": "mayúscula" },
+    "alternativas": { "titulares": "Arial Narrow", "texto": "Arial" }
+  },
+  "logo": {
+    "unidad": "x = 1/6 del ancho del escudo",
+    "areaProteccion": "1x",
+    "minimoEscudo": { "papel": "20 mm", "pantalla": "64 px de alto" },
+    "minimoJaraYPalabra": { "papel": "6 mm", "pantalla": "20 px de alto" },
+    "archivos": {
+      "escudo": "logos/jara-escudo.svg",
+      "escudoBlanco": "logos/jara-escudo-blanco.svg",
+      "escudoPlaca": "logos/jara-escudo-placa.svg",
+      "flor": "logos/jara-flor.svg",
+      "florBlanco": "logos/jara-flor-blanco.svg",
+      "palabra": "logos/jara-palabra.svg",
+      "palabraBlanco": "logos/jara-palabra-blanco.svg"
+    }
+  }
+}
