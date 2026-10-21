@@ -7,5 +7,16 @@ Manual de identidad del Jara (Asociación Jara Club), el club de tiempo libre de
 - [jara-tokens.json](jara-tokens.json): colores, tipografías y medidas del logotipo.
 - [logos/](logos/): escudo, jara y palabra en SVG, en rojo y en blanco.
 - [fuentes/](fuentes/): las imágenes originales de las que salen los logotipos y la flor antigua, como archivo.
+- [AGENTS.md](AGENTS.md): instrucciones para agentes de IA. Qué leer, variables CSS, URL de los logos y una comprobación final.
+- [skills/jara-marca/](skills/jara-marca/): skill para Claude. Cópiala en `~/.claude/skills/` y se activará sola cada vez que pidas algo del Jara, aunque estés en otro proyecto.
+
+## Para usarlo con un agente
+Basta con darle la URL del repo: lo primero que leerá es `AGENTS.md`. Si usas Claude Code, instala la skill una vez:
+
+```sh
+git clone https://github.com/pfaraluce/jara-brand
+mkdir -p ~/.claude/skills
+cp -r jara-brand/skills/jara-marca ~/.claude/skills/
+```
 
 Versión 2.0 · octubre de 2026.
