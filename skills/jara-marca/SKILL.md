@@ -5,7 +5,7 @@ description: Marca del Jara (Jara Club, Asociación Jara Club), club de tiempo l
 
 # Marca del Jara
 
-Fuente completa: https://github.com/pfaraluce/jara-brand. Si necesitas más detalle del que hay aquí, lee `JARA-MARCA.md` en https://raw.githubusercontent.com/pfaraluce/jara-brand/main/JARA-MARCA.md. No abras `index.html`: pesa 370 KB y no aporta nada para un agente.
+Fuente completa: https://github.com/jaraclub/jara-brand. Si necesitas más detalle del que hay aquí, lee `JARA-MARCA.md` en https://raw.githubusercontent.com/jaraclub/jara-brand/main/JARA-MARCA.md. No abras `index.html`: pesa 370 KB y no aporta nada para un agente.
 
 ## Lo esencial
 - **El club:** de tiempo libre, para chicos de 10 a 18 años y sus familias. Está en C/ Menéndez Pidal, 35, 28036 Madrid, existe desde 1957 y su web es jaraclub.com. El club es de las familias: lo dirigen padres de socios.
@@ -24,7 +24,7 @@ Fuente completa: https://github.com/pfaraluce/jara-brand. Si necesitas más deta
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700&family=Barlow+Condensed:wght@700&family=Big+Shoulders+Display:wght@800;900&display=swap">
 ```
 
-**Logos** (base: `https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/`):
+**Logos** (base: `https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/`):
 
 | Archivo | Uso |
 |---|---|

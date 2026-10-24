@@ -41,13 +41,13 @@ Logos desde otro proyecto (URL directas):
 
 | Pieza | URL |
 |---|---|
-| Escudo, rojo | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-escudo.svg |
-| Escudo, blanco | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-escudo-blanco.svg |
-| Escudo con placa | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-escudo-placa.svg |
-| La jara, rojo | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-flor.svg |
-| La jara, blanco | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-flor-blanco.svg |
-| Palabra, rojo | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-palabra.svg |
-| Palabra, blanco | https://raw.githubusercontent.com/pfaraluce/jara-brand/main/logos/jara-palabra-blanco.svg |
+| Escudo, rojo | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-escudo.svg |
+| Escudo, blanco | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-escudo-blanco.svg |
+| Escudo con placa | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-escudo-placa.svg |
+| La jara, rojo | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-flor.svg |
+| La jara, blanco | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-flor-blanco.svg |
+| Palabra, rojo | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-palabra.svg |
+| Palabra, blanco | https://raw.githubusercontent.com/jaraclub/jara-brand/main/logos/jara-palabra-blanco.svg |
 
 Para una web en producción, descarga el SVG y guárdalo en el proyecto en vez de enlazarlo a raw.githubusercontent.com.
 

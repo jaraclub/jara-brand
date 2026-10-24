@@ -16,7 +16,7 @@ Basta con darle la URL del repo: lo primero que leerá es `AGENTS.md`. Si usas C
 macOS o Linux:
 
 ```sh
-git clone https://github.com/pfaraluce/jara-brand
+git clone https://github.com/jaraclub/jara-brand
 mkdir -p ~/.claude/skills
 cp -r jara-brand/skills/jara-marca ~/.claude/skills/
 ```
@@ -24,7 +24,7 @@ cp -r jara-brand/skills/jara-marca ~/.claude/skills/
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/pfaraluce/jara-brand
+git clone https://github.com/jaraclub/jara-brand
 New-Item -ItemType Directory -Force "$HOME\.claude\skills" | Out-Null
 Copy-Item -Recurse -Force jara-brand\skills\jara-marca "$HOME\.claude\skills\"
 ```
