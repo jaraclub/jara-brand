@@ -1,6 +1,6 @@
 ---
 name: jara-marca
-description: Marca del Jara (Jara Club, Asociación Jara Club), club de tiempo libre de Madrid para chicos de 10 a 18 años y sus familias. Úsala siempre que haya que escribir un texto o hacer una pieza del Jara (web, cartel, post, story, presentación, correo, circular, WhatsApp a familias, merch, firma), aunque no se mencione la marca. Da el nombre correcto, la voz, el escudo, los colores, las tipografías y una comprobación final.
+description: Marca del Jara (Jara Club, Asociación Jara Club), club de tiempo libre de Madrid para chicos de 9 a 18 años y sus familias. Úsala siempre que haya que escribir un texto o hacer una pieza del Jara (web, cartel, post, story, presentación, correo, circular, WhatsApp a familias, merch, firma), aunque no se mencione la marca. Da el nombre correcto, la voz, el escudo, los colores, las tipografías y una comprobación final.
 ---
 
 # Marca del Jara
@@ -16,7 +16,7 @@ Si trabajas en un proyecto (web, app…), busca en su `AGENTS.md` o `CLAUDE.md` 
 - Las excepciones del proyecto, por ejemplo «sin escudo hasta nueva orden», mandan sobre esta guía.
 
 ## Lo esencial
-- **El club:** de tiempo libre, para chicos de 10 a 18 años y sus familias. Está en C/ Menéndez Pidal, 35, 28036 Madrid, existe desde 1957 y su web es jaraclub.com. El club es de las familias: lo dirigen padres de socios.
+- **El club:** de tiempo libre, para chicos de 9 a 18 años y sus familias. Está en C/ Menéndez Pidal, 35, 28036 Madrid, existe desde 1957 y su web es jaraclub.com. El club es de las familias: lo dirigen padres de socios.
 - **Nombre:** «el Jara» en los textos, con artículo y en masculino. «Jara Club» para presentarnos. «Asociación Jara Club» solo en lo legal. Nunca «Asociación Juvenil», «Club Jara» ni «la Jara».
 - **Lema (propuesta):** «Aquí se crece.»
 - **Voz:** como un padre en la puerta del colegio. Se tutea a todos y se da primero lo práctico (qué, cuándo, dónde, cuánto). Con humor, sin mayúsculas a gritos ni filas de emojis. Sin palabras de dentro: «preceptuación» pasa a «conversaciones con su preceptor», y «convivencia» a «días fuera» o «campamento».
@@ -45,7 +45,7 @@ Si trabajas en un proyecto (web, app…), busca en su `AGENTS.md` o `CLAUDE.md` 
 El escudo no se parte, no se recorta, no se gira y no lleva sombras. JARA es un dibujo: nunca se reescribe con una tipografía.
 
 **Dos registros:**
-- **1.ª equipación (10 a 14 años y familias):** fondo blanco y mucho aire.
+- **1.ª equipación (9 a 14 años y familias):** fondo blanco y mucho aire.
 - **2.ª equipación (14 a 18 años):** fondo marino, collage, formato vertical y frases cortas.
 
 ## Comprobación final

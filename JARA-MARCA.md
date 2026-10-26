@@ -1,12 +1,12 @@
 # Marca Jara · guía rápida
 
-Versión 2.0 · octubre de 2026. Resumen del manual de identidad del Jara ([index.html](index.html)) para quien escriba textos o haga piezas del club, personas o agentes de IA.
+Versión 2.1 · octubre de 2026. Resumen del manual de identidad del Jara ([index.html](index.html)) para quien escriba textos o haga piezas del club, personas o agentes de IA.
 
 ## Qué es el Jara
-Club de tiempo libre para chicos de 10 a 18 años y sus familias, desde 1957.
+Club de tiempo libre para chicos de 9 a 18 años y sus familias, desde 1957.
 C/ Menéndez Pidal, 35 · 28036 Madrid · 91 561 54 41 · jaraclub@jaraclub.com · jaraclub.com · @jaraclub_
 
-- De 10 a 14 años funciona como club juvenil. De 14 a 18, formación cristiana dentro de la labor de San Rafael del Opus Dei.
+- De 9 a 14 años funciona como club juvenil. De 14 a 18, formación cristiana dentro de la labor de San Rafael del Opus Dei.
 - Es una asociación civil y laical. La orientación cristiana corresponde al Opus Dei, y la formación espiritual es voluntaria.
 - **El club es de las familias:** la junta directiva la forman padres de socios.
 
@@ -94,7 +94,7 @@ Todas son gratuitas, de Google Fonts.
 Usa uno o dos por pieza, nunca los cuatro.
 
 ## Equipaciones
-- **1.ª, blanca (10 a 14 años y familias):** fondo blanco, rojo, mucho aire e información práctica visible.
+- **1.ª, blanca (9 a 14 años y familias):** fondo blanco, rojo, mucho aire e información práctica visible.
 - **2.ª, marina (14 a 18 años):** fondo marino, rojo noche y amarillo. Collage, titulares enormes, formato vertical, frases cortas.
 
 ## Fotografía

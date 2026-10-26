@@ -8,6 +8,9 @@ La versión vigente es la de `version` en [jara-tokens.json](jara-tokens.json), 
 
 Quien cambie este repo sube la versión en `jara-tokens.json`, `JARA-MARCA.md` e `index.html`, y añade una entrada arriba del todo con qué cambia y qué tiene que hacer cada proyecto para aplicarlo.
 
+## 2.1 · octubre de 2026
+- **Edad:** el club es para chicos de 9 a 18 años (no de 10 a 18), y la 1.ª equipación, de 9 a 14. Para aplicarlo, cambia la edad donde aparezca en textos y metadatos.
+
 ## 2.0 · octubre de 2026
 Primera versión de la marca nueva. Para aplicarla en un proyecto:
 - **Logos:** escudo, jara y palabra de [logos/](logos/), en rojo y en blanco, en lugar de la flor antigua.

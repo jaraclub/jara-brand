@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "color": {
     "rojo": { "hex": "#DF171A", "rgb": [223, 23, 26], "cmyk": [0, 92, 88, 4], "pantone": "485 C (aprox.)", "uso": "El escudo. Color principal." },
     "blanco": { "hex": "#FFFFFF", "uso": "Fondo." },

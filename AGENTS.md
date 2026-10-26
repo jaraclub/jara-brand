@@ -1,6 +1,6 @@
 # Instrucciones para agentes
 
-Este repo es la marca del Jara (Asociación Jara Club), un club de tiempo libre de Madrid para chicos de 10 a 18 años y sus familias. Úsalo para escribir textos o hacer piezas del club: webs, carteles, posts, presentaciones, correos o merch.
+Este repo es la marca del Jara (Asociación Jara Club), un club de tiempo libre de Madrid para chicos de 9 a 18 años y sus familias. Úsalo para escribir textos o hacer piezas del club: webs, carteles, posts, presentaciones, correos o merch.
 
 ## Qué leer
 1. **[JARA-MARCA.md](JARA-MARCA.md):** la guía completa: nombre, voz, escudo, color, letra y fotografía. Léela entera antes de hacer nada.

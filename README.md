@@ -1,6 +1,6 @@
 # Marca Jara
 
-Manual de identidad del Jara (Asociación Jara Club), el club de tiempo libre de Menéndez Pidal, en Madrid, para chicos de 10 a 18 años y sus familias.
+Manual de identidad del Jara (Asociación Jara Club), el club de tiempo libre de Menéndez Pidal, en Madrid, para chicos de 9 a 18 años y sus familias.
 
 - [index.html](index.html): el manual completo. Ábrelo en el navegador. Funciona sin conexión porque las fuentes van incluidas.
 - [JARA-MARCA.md](JARA-MARCA.md): resumen del manual para quien escriba o diseñe piezas, y para agentes de IA.
@@ -32,4 +32,4 @@ Copy-Item -Recurse -Force jara-brand\skills\jara-marca "$HOME\.claude\skills\"
 
 Para actualizarla más adelante, haz `git pull` en el repo y repite la copia.
 
-Versión 2.0 · octubre de 2026.
+Versión 2.1 · octubre de 2026.
