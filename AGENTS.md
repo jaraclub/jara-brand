@@ -6,10 +6,22 @@ Este repo es la marca del Jara (Asociación Jara Club), un club de tiempo libre 
 1. **[JARA-MARCA.md](JARA-MARCA.md):** la guía completa: nombre, voz, escudo, color, letra y fotografía. Léela entera antes de hacer nada.
 2. **[jara-tokens.json](jara-tokens.json):** los colores con RGB, CMYK y Pantone, las tipografías y las medidas del logo, en formato máquina.
 3. **[logos/](logos/):** los SVG. Úsalos tal cual.
+4. **[CAMBIOS.md](CAMBIOS.md):** qué ha cambiado en cada versión de la marca.
 
 No abras [index.html](index.html) para informarte. Es el manual visual para personas y pesa unos 370 KB, casi todo fuentes en base64. No contiene nada que no esté en JARA-MARCA.md.
 
 No modifiques los archivos de `logos/` ni de `fuentes/`.
+
+## Versiones
+Cada proyecto que usa esta marca anota en su `AGENTS.md` o `CLAUDE.md` la versión que tiene aplicada, con una línea así: `Marca: jara-brand 2.0`. Si tiene alguna excepción decidida por el club, va en la misma sección. Por ejemplo: «sin escudo ni palabra hasta nueva orden».
+
+Cada vez que te pidan algo en un proyecto que use esta marca, empieza por aquí:
+1. Compara la versión anotada en el proyecto con `version` en [jara-tokens.json](jara-tokens.json). Si el proyecto no tiene anotada ninguna, tómalo como versión 0.
+2. Si la versión mayor es distinta, es que han cambiado logos, colores o tipografías. Antes de hacer el encargo, cuéntale a quien te lo pide qué cambia, según [CAMBIOS.md](CAMBIOS.md), y pregúntale si lo aplicas. No lo apliques por tu cuenta.
+3. Si dice que sí, aplícalo y sube la versión anotada. Si dice que no, sube igualmente la versión anotada y apunta como excepción lo que no se aplica, para no volver a preguntarlo.
+4. Si solo cambia la versión menor, aplica lo nuevo en lo que toques y sube la versión anotada.
+
+Respeta las excepciones de cada proyecto, aunque contradigan esta guía.
 
 ## Para código
 Fuentes (Google Fonts):

@@ -107,6 +107,14 @@ Son menores:
 - Los viajes se publican a la vuelta.
 - Las fotos se guardan en el archivo del club, no en móviles personales.
 
+## Versiones
+La versión vigente está en [jara-tokens.json](jara-tokens.json) y la historia, en [CAMBIOS.md](CAMBIOS.md).
+
+- **Versión mayor:** cambian logos, colores o tipografías.
+- **Versión menor:** cambia todo lo demás.
+
+Cada proyecto anota la versión que tiene aplicada y sus excepciones. Si la versión mayor cambia, el agente avisa de los cambios y pregunta antes de aplicarlos. Las instrucciones están en [AGENTS.md](AGENTS.md).
+
 ## Pendiente
 - Confirmar el lema. Alternativas: «Hacemos equipo», «Gente de monte».
 - Repaso del escudo por un diseñador: limpiar curvas, igualar grosores y preparar la versión bordada.

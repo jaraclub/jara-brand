@@ -7,6 +7,14 @@ description: Marca del Jara (Jara Club, Asociación Jara Club), club de tiempo l
 
 Fuente completa: https://github.com/jaraclub/jara-brand. Si necesitas más detalle del que hay aquí, lee `JARA-MARCA.md` en https://raw.githubusercontent.com/jaraclub/jara-brand/main/JARA-MARCA.md. No abras `index.html`: pesa 370 KB y no aporta nada para un agente.
 
+## Versión (antes de nada)
+Si trabajas en un proyecto (web, app…), busca en su `AGENTS.md` o `CLAUDE.md` la línea `Marca: jara-brand X.Y` y compárala con `version` en https://raw.githubusercontent.com/jaraclub/jara-brand/main/jara-tokens.json. Si no hay línea, la versión del proyecto es 0.
+
+- **Si cambia la versión mayor**, han cambiado logos, colores o tipografías. Antes de hacer el encargo, cuenta qué cambia según https://raw.githubusercontent.com/jaraclub/jara-brand/main/CAMBIOS.md y pregunta si se aplica. No lo apliques sin un sí.
+- **Si cambia solo la versión menor**, aplica lo nuevo en lo que toques.
+- En los dos casos, actualiza la línea del proyecto. Si no se aplica algo, apúntalo como excepción.
+- Las excepciones del proyecto, por ejemplo «sin escudo hasta nueva orden», mandan sobre esta guía.
+
 ## Lo esencial
 - **El club:** de tiempo libre, para chicos de 10 a 18 años y sus familias. Está en C/ Menéndez Pidal, 35, 28036 Madrid, existe desde 1957 y su web es jaraclub.com. El club es de las familias: lo dirigen padres de socios.
 - **Nombre:** «el Jara» en los textos, con artículo y en masculino. «Jara Club» para presentarnos. «Asociación Jara Club» solo en lo legal. Nunca «Asociación Juvenil», «Club Jara» ni «la Jara».
